@@ -1,6 +1,6 @@
 # Ingredient
 
-*avocado
+*apple
 *lime
 *salt
 
